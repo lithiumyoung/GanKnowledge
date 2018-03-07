@@ -3,4 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSwipeRefreshLayout1">#e90e0e</color>
+    <color name="colorSwipeRefreshLayout2">#e48511</color>
+    <color name="colorSwipeRefreshLayout3">#ede20d</color>
+    <color name="colorSwipeRefreshLayout4">#42ef13</color>
+    <color name="colorSwipeRefreshLayout5">#07c9ec</color>
+
 </resources>
